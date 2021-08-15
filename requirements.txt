@@ -1,3 +1,5 @@
-telegram-python-bot
-telegram
-telegram.ext
+future
+certifi
+tornado
+cryptography
+python-telegram-bot
